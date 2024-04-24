@@ -9,7 +9,7 @@ I am Wian du Plessis. I am from South Africa and I am currently doing my Bachelo
 ## ⚡ Technologies
 Talk to me about:
 - HTML, CSS, Javascript.
-- Java, Python.
+- Java, Python, C++.
 - Oracle.
 - SAS, R.
 
