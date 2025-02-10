@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-wianduplessis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wianduplessis/)](https://www.linkedin.com/in/harshkumarkhatri/)
 [![Gmail Badge](https://img.shields.io/badge/-wianduppie@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wianduppie@gmail.com)](mailto:wianduppie@gmail.com)
 
-I am Wian du Plessis. I am from South Africa and I am currently doing my Bachelor of Science in Computer Science and Statistics at the North-West University, Potchefstroom.
+I am Wian du Plessis. I am from South Africa and I am currently doing my Bachelor of Science Honours in Computer Science at the North-West University, Potchefstroom.
 ## ⚡ Technologies
 Talk to me about:
 - HTML, CSS, Javascript.
